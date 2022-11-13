@@ -1,0 +1,4 @@
+E:\Dev-AL\TLDR\TLDR-Engine\obj\Debug\netcoreapp3.1\TLDR-Engine.csprojAssemblyReference.cache
+E:\Dev-AL\TLDR\TLDR-Engine\obj\Debug\netcoreapp3.1\TLDR-Engine.AssemblyInfoInputs.cache
+E:\Dev-AL\TLDR\TLDR-Engine\obj\Debug\netcoreapp3.1\TLDR-Engine.AssemblyInfo.cs
+E:\Dev-AL\TLDR\TLDR-Engine\obj\Debug\netcoreapp3.1\TLDR-Engine.csproj.CoreCompileInputs.cache

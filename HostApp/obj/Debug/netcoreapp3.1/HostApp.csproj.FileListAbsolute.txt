@@ -1,0 +1,5 @@
+E:\Dev-AL\TLDR\HostApp\obj\Debug\netcoreapp3.1\HostApp.csprojAssemblyReference.cache
+E:\Dev-AL\TLDR\HostApp\obj\Debug\netcoreapp3.1\HostApp.AssemblyInfoInputs.cache
+E:\Dev-AL\TLDR\HostApp\obj\Debug\netcoreapp3.1\HostApp.AssemblyInfo.cs
+E:\Dev-AL\TLDR\HostApp\obj\Debug\netcoreapp3.1\HostApp.csproj.CoreCompileInputs.cache
+E:\Dev-AL\TLDR\HostApp\obj\Debug\netcoreapp3.1\HostApp.MvcApplicationPartsAssemblyInfo.cache

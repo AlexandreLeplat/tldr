@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HostApp", ".\HostApp\HostApp.csproj", "{61A6F00F-DF8B-45FD-B67A-56B046AB2988}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", ".\Entities\Entities.csproj", "{13973330-30FB-4E87-8AC1-78DDBC31309C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLDR-Engine", ".\TLDR-Engine\TLDR-Engine.csproj", "{E7127950-BE04-414A-990C-93D0756F50D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A6F00F-DF8B-45FD-B67A-56B046AB2988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A6F00F-DF8B-45FD-B67A-56B046AB2988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A6F00F-DF8B-45FD-B67A-56B046AB2988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A6F00F-DF8B-45FD-B67A-56B046AB2988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13973330-30FB-4E87-8AC1-78DDBC31309C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13973330-30FB-4E87-8AC1-78DDBC31309C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13973330-30FB-4E87-8AC1-78DDBC31309C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13973330-30FB-4E87-8AC1-78DDBC31309C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7127950-BE04-414A-990C-93D0756F50D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7127950-BE04-414A-990C-93D0756F50D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7127950-BE04-414A-990C-93D0756F50D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7127950-BE04-414A-990C-93D0756F50D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2579432-4E8A-4DE5-822B-A3124CB3F2C7}
+	EndGlobalSection
+EndGlobal
